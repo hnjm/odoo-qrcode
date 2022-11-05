@@ -6,7 +6,7 @@
 
 ![Version](https://img.shields.io/badge/build_with_Odoo-13.0-blue)
 
-This module adds QR and Barcode scanning functionality using inbuilt device camera or attached external webcam to odoo normal text fields.
+This module adds QR and Barcode scanning functionality using inbuilt device camera or attached external webcam to odoo text fields.
 
 ## Useage
 
