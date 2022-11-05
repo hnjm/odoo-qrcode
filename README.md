@@ -1,6 +1,5 @@
 # Webcam Qrcode Scanner
-
-## scan qr and barcodes using inbuilt/external webcam
+scan qr and barcodes using inbuilt/external webcam
 
 [![Odoo Logo](https://project-management.com/wp-content/uploads/2014/08/odoo-logo1.png)](https://www.odoo.com/)
 
